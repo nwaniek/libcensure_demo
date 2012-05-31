@@ -1,0 +1,7 @@
+Sample application of libcensure, the C99 implementation of the Center Surround
+Extremas, described in [1]
+
+
+[1] Agrawal, M, Konolige, K & Blas, MR 2008, 'CenSurE: Center Surround Extremas
+    for Realtime Feature Detection and Matching', The 10th European Conference
+    on Computer VisionSpringer, pp. 102-115.
